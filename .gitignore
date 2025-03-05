@@ -1,0 +1,22 @@
+# Виртуальное окружение
+venv/
+__pycache__/
+Lib/
+Scripts/
+pyvenv.cfg
+
+# Логи
+*.log
+
+# Файлы PyCharm
+.idea/
+
+# Переменные окружения
+.env
+
+# Статические файлы Django
+/staticfiles/
+/media/
+
+# Другие временные файлы
+.DS_Store
